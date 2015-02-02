@@ -1,0 +1,30 @@
+<style>
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	}
+	
+a {
+	display: block;
+	width: 60px;
+	color: #009900;
+	}
+	
+li  { 
+	display: inline-block;
+	}	
+
+h1 { text-align: center;
+	 background-color: #33ccff;
+	 }
+	 
+p1 { text-align: center;
+	 }
+
+footer { text-align: center;
+	 color: #33ccff;
+	 }	 
+	 
+</style>
